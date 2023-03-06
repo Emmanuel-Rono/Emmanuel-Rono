@@ -6,7 +6,7 @@
 
 <!--Gif-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there%2C+I+am+Emmanuel%20Rono;+An+Android+Developer+based+in+Nairobi+Kenya;I+also+love+Backend+and+Cloud;Hit+me+up%2C+I'd+love+to+work+with+you&font=Fira%20Code&center=true&width=480&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there%2C+I+am+Emmanuel%20Rono;+An+Android+Developer+based+in+Nairobi;I+also+love+Backend+and+Cloud;Hit+me+up%2C+I'd+love+to+work+with+you&font=Fira%20Code&center=true&width=480&height=45&color=36BCF7FF&vCenter=true&size=25"></a>
 </p>
 
 <!--Socials-->
