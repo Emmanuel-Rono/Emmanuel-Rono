@@ -5,11 +5,13 @@
 </h3>
 
 <!-- Typing GIF -->
+<!-- Typing GIF -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Greetings%2C+I+am+Emmanuel+Rono;An+Android+Developer+residing+in+Nairobi;Passionate+about+Backend+and+Cloud;Feel+free+to+reach+out%2C+I+am+eager+to+collaborate&font=Fira+Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Greetings%2C+I+am+Emmanuel+Rono;A+Software+Quality+Assurance+Engineer;Dedicated+to+ensuring+bug-free+experiences;Feel+free+to+connect+with+me&font=Fira+Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG">
   </a>
 </p>
+
 
 <!--Socials-->
 <p align="center">
